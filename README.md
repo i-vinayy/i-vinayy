@@ -3,15 +3,13 @@
 <h1 align="center">Hi 👋, I'm Vinay Ramnani</h1>
 <h3 align="center">Experienced Full Stack Developer with over 3 + years of expertise in developing and scaling technology solutions for the Banking and Finance domain. Proficient in Frontend Backend technologies, specializing in crafting tools and solutions to improve banks efficiency, reduce TAT, and minimize costs. Keen to leverage. Committed to leverage advanced Coding skills and Problem-Solving abilities to drive businessveloper from India</h3>
 
-- 🔭 I’m currently working on **Centralized Exchange Trade Solution**
+- 🔭 I’m currently working on **Insurance Domain Health OS**
 
-- 🌱 I’m currently learning **Micro Services Design Pattern**
+- 👯 I’m looking to collaborate on **Edtech Startups**
 
-- 👯 I’m looking to collaborate on **Commercial & Retail Lending Solution**
+- 🤝 I’m looking for  **Freelancing Roles and Consultation**
 
-- 🤝 I’m looking for help with **CRM Helpdesk Solution**
-
-- 📫 How to reach me **vinayramnani.vr@gmail.com**
+- 📫 Reach me out at:  **vinayramnani.vr@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

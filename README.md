@@ -9,13 +9,13 @@
 
 - 🤝 I’m looking for  **Freelancing Roles and Consultation**
 
-- 📫 Reach me out at:  **vinayramnani.vr@gmail.com**
+- 📫 Reach me out at:  **vkji506@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/sindhiiboy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sindhiiboy" height="30" width="40" /></a>
+<!-- <a href="https://twitter.com/vkmar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sindhiiboy" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/i-vinay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="i-vinay" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/i-vinayy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="i-vinayy" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/i-vinayy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="i-vinayy" height="30" width="40" /></a> -->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
